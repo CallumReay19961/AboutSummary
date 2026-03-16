@@ -1,5 +1,4 @@
 # About Summary
-Information of my GitHub profile
 
 
 **About Me**
