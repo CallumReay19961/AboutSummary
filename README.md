@@ -12,7 +12,7 @@ I am passionate for learning C#, SQL, Python, Web Development.
 
 **Current Projects **
 
-**Project 1**
+**Ongoing Project**
 
 Remote Assistance Administrator Suite
 
