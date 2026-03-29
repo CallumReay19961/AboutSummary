@@ -5,3 +5,6 @@ I am a project-focused passionate learner interested in software development, ha
 **Goals to achieve**
 
 Build and test working real world software projects gaining experience in software development further developing  the skills and proficiency in new programming languages and tools.
+
+**Programming Languages**
+I am currently learning C#, SQL, Python, Web Development.
