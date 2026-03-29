@@ -8,3 +8,4 @@ Build and test working real world software projects gaining experience in softwa
 
 **Programming Languages**
 I am currently learning C#, SQL, Python, Web Development.
+
